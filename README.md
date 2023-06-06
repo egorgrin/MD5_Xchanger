@@ -1,7 +1,7 @@
 Ставишь питон, жмакаешь галочку add to path
 
-pip install Pillow
+В консоли ставишь модуль: pip install Pillow
 
-В src кидаешь исходники, в dist забираешь готовое.
+В src кидаешь исходники, жмакаешь run.bat в dist забираешь готовое.
 
 Profit
